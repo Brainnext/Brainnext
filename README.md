@@ -22,7 +22,8 @@ Frameworks: Flask, Node.js, Django, Pandas, Sckit-Learn, NLP, LLM
 Databases: PostgreSQL, MongoDB, SQLite
 
 DevOps: Docker, AWS, Terraform
-
+  
+<div align="center">
 <h3>Let's connect and build something awesome.</h3>
 <a href="https://twitter.com/Sirlinuxx">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter badge">
