@@ -7,11 +7,11 @@ I'm a Machine Learnng Engineer/Data Scientist who loves to solve complex problem
 
 What I'm up to:
 
-🚀 Currently launching [A project you're working on, e.g., a new open-source library, a startup idea].
+🚀 Currently researching on Quantum Machine Learning Modeling!.
 
-🧠 Deep diving into [A specific concept or tech, e.g., serverless architecture, the Rust ecosystem].
+🧠 Deep diving into Machine Learning models.
 
-🕹️ When I'm not coding, you can find me [A hobby, e.g., playing chess, hiking, reading sci-fi].
+🕹️ When I'm not coding, you can find me playing chess, hiking, reading or watching sci-fi movies.
 
 My Toolkit:
 
@@ -23,9 +23,8 @@ Databases: PostgreSQL, MongoDB, SQLite
 
 DevOps: Docker, AWS, Terraform
 
-<div align="center">
 <h3>Let's connect and build something awesome.</h3>
-<a href="https://twitter.com/sirlinuxx">
+<a href="https://twitter.com/Sirlinuxx">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter badge">
 </a>
 <a href="https://www.google.com/search?q=https://linkedin.com/in/[YourLinkedInProfile]">
