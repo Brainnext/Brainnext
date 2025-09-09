@@ -1,1 +1,34 @@
-<div align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/half-faced/half-faced/main/images/banner.png" alt="A clean, minimalist banner with your name" width="100%"></div>code.and.coffeeI'm a [Your Role] building [What you build, e.g., high-performance backend systems, beautiful UIs]. My passion lies in solving complex problems with elegant and maintainable code.🔥 Currently on Fire<div align="center"><a href="https://github.com/[Your-Username]/[Your-Project-Name]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/github/stars/[Your-Username]/[Your-Project-Name]?style=for-the-badge&color=e4431f&logo=star&label=Stars&logoColor=white" alt="Project Stars"></a><a href="https://github.com/[Your-Username]/[Your-Project-Name]/forks" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/github/forks/[Your-Username]/[Your-Project-Name]?style=for-the-badge&color=0078D4&logo=github&label=Forks&logoColor=white" alt="Project Forks"></a><a href="https://github.com/[Your-Username]/[Your-Project-Name]/issues" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/github/issues/[Your-Username]/[Your-Project-Name]?style=for-the-badge&color=F7DF1E&logo=bug&label=Issues&logoColor=black" alt="Project Issues"></a></div>About this project:[Your Project Name] is a [brief, one-sentence description of the project]. It's built with [key technologies] and aims to [the primary goal of the project].<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[Your-GitHub-Username]&layout=compact&theme=dark" alt="Top Languages" width="45%"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[Your-GitHub-Username]&theme=dark" alt="GitHub Streak" width="45%"></div>
+<div align="center">
+<h1>Hey there, I'm SIRLINUX !</h1>
+<p>Building things, breaking things, and learning something new every day.</p>
+</div>
+
+I'm a Machine Learnng Engineer/Data Scientist who loves to solve complex problems,build beautiful user interfaces with Flask, see data more than what they are and how insights can be gotten from them. 
+
+What I'm up to:
+
+🚀 Currently launching [A project you're working on, e.g., a new open-source library, a startup idea].
+
+🧠 Deep diving into [A specific concept or tech, e.g., serverless architecture, the Rust ecosystem].
+
+🕹️ When I'm not coding, you can find me [A hobby, e.g., playing chess, hiking, reading sci-fi].
+
+My Toolkit:
+
+Languages: JavaScript, Python
+
+Frameworks: Flask, Node.js, Django, Pandas, Sckit-Learn, NLP, LLM 
+
+Databases: PostgreSQL, MongoDB, SQLite
+
+DevOps: Docker, AWS, Terraform
+
+<div align="center">
+<h3>Let's connect and build something awesome.</h3>
+<a href="https://twitter.com/sirlinuxx">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter badge">
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/[YourLinkedInProfile]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn badge">
+</a>
+</div>
